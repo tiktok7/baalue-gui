@@ -1,6 +1,6 @@
 # baalue-gui
 
-Temporary repo for prototype development of GUI frontend for the baalue tool.  When the structure and
+Temporary repo for prototype development of GUI frontend for the [baalue sdk](https://github.com/tjohann/baalue_sdk).  When the structure and
 functionality has been thoroughly tested this repo will be partially or completely merged into the Baalue
 project
 
